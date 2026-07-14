@@ -13,157 +13,172 @@ A curated collection of resources for web and graphic designers. Find fonts, ico
 8. [Stock Photos](#stock-photos)
 9. [UI Kits and Templates](#ui-kits-and-templates)
 10. [Animation Assets](#animation-assets)
+11. [Design Tools](#design-tools)
 
 ## Icons
 
 | Logo | Name | Description |
 |------|------|-------------|
-| ![IconSax](https://iconsax.io/favicon.ico) | [IconSax](https://iconsax.io) | A versatile icon library offering thousands of icons in multiple styles, including linear, bold, and outline variants. |
-| ![Font Awesome](https://fontawesome.com/favicon.ico) | [Font Awesome](https://fontawesome.com) | The web's most popular icon set and toolkit, featuring thousands of free and pro icons for use in any project. |
-| ![Material Icons](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQTKeiWNEr4b5zN3LnkT7eV7nxzindwBK6krFqN3sGJQ&s=10) | [Material Icons](https://fonts.google.com/icons) | Google's official icon library following Material Design guidelines, available as fonts and SVGs. |
-| ![Feather Icons](https://feathericons.com/favicon.ico) | [Feather Icons](https://feathericons.com) | A collection of simply beautiful open source icons designed on a 24x24 grid. |
-| ![Heroicons](https://heroicons.com/favicon.ico) | [Heroicons](https://heroicons.com) | Beautiful hand-crafted SVG icons by the makers of Tailwind CSS, available in outline and solid styles. |
-| ![Remix Icon](https://remixicon.com/favicon.ico) | [Remix Icon](https://remixicon.com) | Open source neutral-style system symbols meticulously crafted for designers and developers. |
-| ![Phosphor Icons](https://phosphoricons.com/favicon.ico) | [Phosphor Icons](https://phosphoricons.com) | A flexible icon family with six weights (thin, light, regular, bold, fill, duotone) and a friendly style. |
-| ![Tabler Icons](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjXCD3IoQzaOvLfhZcn0vNj7qap9ca7LIoOU6TYGH1EQ&s=10) | [Tabler Icons](https://tabler-icons.io) | Over 4400 pixel-perfect, customizable SVG icons designed for modern interfaces. |
-| ![Lucide](https://lucide.dev/favicon.ico) | [Lucide](https://lucide.dev) | A community-driven fork of Feather Icons with many additional icons and active maintenance. |
-| ![The Noun Project](https://thenounproject.com/favicon.ico) | [The Noun Project](https://thenounproject.com) | A massive collection of icons and photos contributed by a global community, with both free and paid options. |
-| ![Flaticon](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiMDHcIPosCVEXtKgMj5BTqzfvRa5ltwLq7wVNLhfXTw&s=10) | [Flaticon](https://www.flaticon.com) | The largest database of free vector icons, available in PNG, SVG, EPS, PSD, and BASE64 formats. |
-| ![Icons8](https://icons8.com/favicon.ico) | [Icons8](https://icons8.com) | A comprehensive design platform providing icons, illustrations, photos, and music in consistent styles. |
-| ![Simple Icons](https://simpleicons.org/favicon.ico) | [Simple Icons](https://simpleicons.org) | Free SVG icons for popular brands, always up to date and consistent in appearance. |
-| ![Devicons](https://github.com/devicons/devicon) | [Devicons](https://devicon.dev) | A set of icons representing programming languages, designing tools, and development frameworks. |
+| <img src="https://iconsax.io/favicon.ico" alt="IconSax" width="32" height="32"> | [IconSax](https://iconsax.io) | Thousands of icons in linear, bold, and outline styles. |
+| <img src="https://fontawesome.com/favicon.ico" alt="Font Awesome" width="32" height="32"> | [Font Awesome](https://fontawesome.com) | The web's most popular icon set with free and pro options. |
+| <img src="https://fonts.google.com/favicon.ico" alt="Material Icons" width="32" height="32"> | [Material Icons](https://fonts.google.com/icons) | Google's official icon library following Material Design. |
+| <img src="https://feathericons.com/favicon.ico" alt="Feather Icons" width="32" height="32"> | [Feather Icons](https://feathericons.com) | Beautiful open source icons on a 24x24 grid. |
+| <img src="https://heroicons.com/favicon.ico" alt="Heroicons" width="32" height="32"> | [Heroicons](https://heroicons.com) | Hand-crafted SVG icons by the Tailwind CSS team. |
+| <img src="https://remixicon.com/favicon.ico" alt="Remix Icon" width="32" height="32"> | [Remix Icon](https://remixicon.com) | Open source neutral system symbols for designers and developers. |
+| <img src="https://phosphoricons.com/favicon.ico" alt="Phosphor Icons" width="32" height="32"> | [Phosphor Icons](https://phosphoricons.com) | Flexible icon family with six weights and a friendly style. |
+| <img src="https://tabler-icons.io/favicon.ico" alt="Tabler Icons" width="32" height="32"> | [Tabler Icons](https://tabler-icons.io) | 4400+ pixel-perfect customizable SVG icons. |
+| <img src="https://lucide.dev/favicon.ico" alt="Lucide" width="32" height="32"> | [Lucide](https://lucide.dev) | Community-driven fork of Feather Icons with active maintenance. |
+| <img src="https://thenounproject.com/favicon.ico" alt="The Noun Project" width="32" height="32"> | [The Noun Project](https://thenounproject.com) | Massive collection of icons and photos with free and paid options. |
+| <img src="https://www.flaticon.com/favicon.ico" alt="Flaticon" width="32" height="32"> | [Flaticon](https://www.flaticon.com) | Largest database of free vector icons in multiple formats. |
+| <img src="https://icons8.com/favicon.ico" alt="Icons8" width="32" height="32"> | [Icons8](https://icons8.com) | Icons, illustrations, photos, and music in consistent styles. |
+| <img src="https://simpleicons.org/favicon.ico" alt="Simple Icons" width="32" height="32"> | [Simple Icons](https://simpleicons.org) | Free SVG icons for popular brands, always up to date. |
+| <img src="https://devicon.dev/favicon.ico" alt="Devicons" width="32" height="32"> | [Devicons](https://devicon.dev) | Icons for programming languages, design tools, and frameworks. |
 
 ## Fonts
 
 | Logo | Name | Description |
 |------|------|-------------|
-| ![Google Fonts](https://fonts.google.com/favicon.ico) | [Google Fonts](https://fonts.google.com) | A library of over 1,500 free licensed font families and a robust web API for easy integration. |
-| ![Adobe Fonts](https://fonts.adobe.com/favicon.ico) | [Adobe Fonts](https://fonts.adobe.com) | Thousands of beautiful fonts included with a Creative Cloud subscription, with seamless desktop and web sync. |
-| ![Font Squirrel](https://www.fontsquirrel.com/favicon.ico) | [Font Squirrel](https://www.fontsquirrel.com) | A hand-curated collection of high-quality, 100% free for commercial use fonts and a useful web font generator. |
-| ![DaFont](https://www.dafont.com/favicon.ico) | [DaFont](https://www.dafont.com) | A massive archive of freely downloadable fonts, sorted by style and theme. |
-| ![Urban Fonts](https://www.urbanfonts.com/favicon.ico) | [Urban Fonts](https://www.urbanfonts.com) | A large collection of free and premium fonts, including dingbats and themed typefaces. |
-| ![Fontshare](https://www.fontshare.com/favicon.ico) | [Fontshare](https://www.fontshare.com) | A free font service launched by the Indian Type Foundry, offering high-quality typefaces for personal and commercial use. |
-| ![Velvetyne](https://velvetyne.fr/favicon.ico) | [Velvetyne](https://velvetyne.fr) | A collective dedicated to designing and publishing libre and open source typefaces. |
-| ![Open Foundry](https://open-foundry.com/favicon.ico) | [Open Foundry](https://open-foundry.com) | A curated selection of open-source fonts, easily testable directly in the browser. |
-| ![Typewolf](https://www.typewolf.com/favicon.ico) | [Typewolf](https://www.typewolf.com) | A site for font inspiration, showcasing trending typefaces and independent foundries. |
-| ![Fonts In Use](https://fontsinuse.com/favicon.ico) | [Fonts In Use](https://fontsinuse.com) | A public archive of typographic design, indexed by typeface, format, industry, and period. |
+| <img src="https://fonts.google.com/favicon.ico" alt="Google Fonts" width="32" height="32"> | [Google Fonts](https://fonts.google.com) | 1,500+ free font families with a robust web API. |
+| <img src="https://fonts.adobe.com/favicon.ico" alt="Adobe Fonts" width="32" height="32"> | [Adobe Fonts](https://fonts.adobe.com) | Thousands of fonts included with Creative Cloud. |
+| <img src="https://www.fontsquirrel.com/favicon.ico" alt="Font Squirrel" width="32" height="32"> | [Font Squirrel](https://www.fontsquirrel.com) | Hand-curated, 100% free for commercial use fonts. |
+| <img src="https://www.dafont.com/favicon.ico" alt="DaFont" width="32" height="32"> | [DaFont](https://www.dafont.com) | Massive archive of freely downloadable fonts by theme. |
+| <img src="https://www.1001fonts.com/favicon.ico" alt="1001 Fonts" width="32" height="32"> | [1001 Fonts](https://www.1001fonts.com) | Vast collection of free fonts, categorized by style. |
+| <img src="https://www.urbanfonts.com/favicon.ico" alt="Urban Fonts" width="32" height="32"> | [Urban Fonts](https://www.urbanfonts.com) | Free and premium fonts, dingbats, and themed typefaces. |
+| <img src="https://www.fontshare.com/favicon.ico" alt="Fontshare" width="32" height="32"> | [Fontshare](https://www.fontshare.com) | High-quality free fonts by the Indian Type Foundry. |
+| <img src="https://velvetyne.fr/favicon.ico" alt="Velvetyne" width="32" height="32"> | [Velvetyne](https://velvetyne.fr) | Libre and open source typefaces by a design collective. |
+| <img src="https://open-foundry.com/favicon.ico" alt="Open Foundry" width="32" height="32"> | [Open Foundry](https://open-foundry.com) | Curated open-source fonts testable in the browser. |
+| <img src="https://www.typewolf.com/favicon.ico" alt="Typewolf" width="32" height="32"> | [Typewolf](https://www.typewolf.com) | Font inspiration, trending typefaces, and independent foundries. |
+| <img src="https://fontsinuse.com/favicon.ico" alt="Fonts In Use" width="32" height="32"> | [Fonts In Use](https://fontsinuse.com) | Archive of typographic design indexed by typeface and industry. |
 
 ## Illustrations
 
 | Logo | Name | Description |
 |------|------|-------------|
-| ![unDraw](https://undraw.co/favicon.ico) | [unDraw](https://undraw.co) | Open-source illustrations for any idea you can imagine and create, with customizable color schemes and SVG downloads. |
-| ![Blush](https://blush.design/favicon.ico) | [Blush](https://blush.design) | Mix-and-match illustrations created by artists worldwide, available as vector PNG and SVG. |
-| ![Absurd Design](https://absurd.design/favicon.ico) | [Absurd Design](https://absurd.design) | Free surrealist vector illustrations perfect for landing pages and presentations. |
-| ![Humaaans](https://www.humaaans.com/favicon.ico) | [Humaaans](https://www.humaaans.com) | A library of mix-and-match vector illustrations of people that you can customize for your projects. |
-| ![Illustrations.co](https://illlustrations.co/favicon.ico) | [illustrations.co](https://illlustrations.co) | Free open-source illustration pack featuring 120+ designer-friendly images. |
-| ![DrawKit](https://drawkit.com/favicon.ico) | [DrawKit](https://drawkit.com) | Beautiful, free vector illustrations and icon packs updated weekly, with both free and premium collections. |
-| ![ManyPixels](https://www.manypixels.co/gallery/favicon.ico) | [ManyPixels Gallery](https://www.manypixels.co/gallery) | Free editable vector illustrations in various styles, updated frequently. |
-| ![Freepik](https://www.freepik.com/favicon.ico) | [Freepik](https://www.freepik.com) | Millions of free graphic resources including vectors, stock photos, and PSD files. |
-| ![Pixabay Illustrations](https://pixabay.com/favicon.ico) | [Pixabay](https://pixabay.com/vectors/) | A vast collection of free vector illustrations uploaded by a community of artists. |
-| ![Ouch!](https://icons8.com/ouch/favicon.ico) | [Ouch! by Icons8](https://icons8.com/ouch) | Free vector illustrations created by top designers, browseable by style and category. |
+| <img src="https://undraw.co/favicon.ico" alt="unDraw" width="32" height="32"> | [unDraw](https://undraw.co) | Open-source illustrations with customizable colors and SVG download. |
+| <img src="https://blush.design/favicon.ico" alt="Blush" width="32" height="32"> | [Blush](https://blush.design) | Mix-and-match illustrations by global artists as PNG and SVG. |
+| <img src="https://absurd.design/favicon.ico" alt="Absurd Design" width="32" height="32"> | [Absurd Design](https://absurd.design) | Free surrealist vector illustrations for landing pages. |
+| <img src="https://www.humaaans.com/favicon.ico" alt="Humaaans" width="32" height="32"> | [Humaaans](https://www.humaaans.com) | Mix-and-match vector illustrations of people. |
+| <img src="https://illlustrations.co/favicon.ico" alt="illustrations.co" width="32" height="32"> | [illustrations.co](https://illlustrations.co) | Free open-source pack with 120+ designer-friendly images. |
+| <img src="https://drawkit.com/favicon.ico" alt="DrawKit" width="32" height="32"> | [DrawKit](https://drawkit.com) | Beautiful free vector illustrations and icon packs updated weekly. |
+| <img src="https://www.manypixels.co/gallery/favicon.ico" alt="ManyPixels Gallery" width="32" height="32"> | [ManyPixels Gallery](https://www.manypixels.co/gallery) | Free editable vector illustrations in multiple styles. |
+| <img src="https://www.freepik.com/favicon.ico" alt="Freepik" width="32" height="32"> | [Freepik](https://www.freepik.com) | Millions of free vectors, stock photos, and PSD files. |
+| <img src="https://pixabay.com/favicon.ico" alt="Pixabay" width="32" height="32"> | [Pixabay](https://pixabay.com/vectors/) | Vast collection of free vector illustrations by a community. |
+| <img src="https://icons8.com/ouch/favicon.ico" alt="Ouch! by Icons8" width="32" height="32"> | [Ouch! by Icons8](https://icons8.com/ouch) | Free vector illustrations by top designers, browseable by style. |
 
 ## Background Images and Patterns
 
 | Logo | Name | Description |
 |------|------|-------------|
-| ![SVG Backgrounds](https://www.svgbackgrounds.com/favicon.ico) | [SVG Backgrounds](https://www.svgbackgrounds.com) | Customizable SVG background patterns and shapes for websites and applications. |
-| ![Pattern Monster](https://pattern.monster/favicon.ico) | [Pattern Monster](https://pattern.monster) | An online pattern generator that lets you create seamless SVG patterns, tiles, and backgrounds. |
-| ![Hero Patterns](https://heropatterns.com/favicon.ico) | [Hero Patterns](https://heropatterns.com) | A collection of repeatable SVG background patterns that you can copy and paste into your projects. |
-| ![Cool Backgrounds](https://coolbackgrounds.io/favicon.ico) | [Cool Backgrounds](https://coolbackgrounds.io) | A curated set of beautiful backgrounds generated by algorithms, with CSS and SVG outputs. |
-| ![Unsplash](https://unsplash.com/favicon.ico) | [Unsplash](https://unsplash.com) | Freely usable high-resolution images, perfect for hero backgrounds and ambient imagery. |
-| ![Pexels](https://www.pexels.com/favicon.ico) | [Pexels](https://www.pexels.com) | High-quality, royalty-free stock photos and videos shared by creators. |
-| ![Pixabay](https://pixabay.com/favicon.ico) | [Pixabay](https://pixabay.com) | Over 2.6 million royalty-free stock photos, vectors, and videos. |
-| ![Gradient Magic](https://www.gradientmagic.com/favicon.ico) | [Gradient Magic](https://www.gradientmagic.com) | A gallery of unique CSS gradients with ready-to-use code. |
-| ![UI Gradients](https://uigradients.com/favicon.ico) | [uiGradients](https://uigradients.com) | Beautiful handpicked gradient color combinations with CSS export. |
-| ![Trianglify](https://trianglify.io/favicon.ico) | [Trianglify](https://trianglify.io) | Generate low-poly geometric triangle patterns, exportable as SVGs or PNGs. |
-| ![Pattern Library](https://patternlibrary.com/favicon.ico) | [Pattern Library](https://patternlibrary.com) | A curated gallery of beautiful seamless patterns submitted by designers. |
-| ![Subtle Patterns](https://www.toptal.com/designers/subtlepatterns/favicon.ico) | [Subtle Patterns](https://www.toptal.com/designers/subtlepatterns/) | Free high-quality subtle background textures for websites. |
+| <img src="https://www.svgbackgrounds.com/favicon.ico" alt="SVG Backgrounds" width="32" height="32"> | [SVG Backgrounds](https://www.svgbackgrounds.com) | Customizable SVG patterns and shapes for the web. |
+| <img src="https://pattern.monster/favicon.ico" alt="Pattern Monster" width="32" height="32"> | [Pattern Monster](https://pattern.monster) | Online generator for seamless SVG patterns and tiles. |
+| <img src="https://heropatterns.com/favicon.ico" alt="Hero Patterns" width="32" height="32"> | [Hero Patterns](https://heropatterns.com) | Repeatable SVG background patterns ready to copy. |
+| <img src="https://coolbackgrounds.io/favicon.ico" alt="Cool Backgrounds" width="32" height="32"> | [Cool Backgrounds](https://coolbackgrounds.io) | Algorithm-generated beautiful backgrounds with CSS and SVG. |
+| <img src="https://unsplash.com/favicon.ico" alt="Unsplash" width="32" height="32"> | [Unsplash](https://unsplash.com) | Freely usable high-resolution images for hero backgrounds. |
+| <img src="https://www.pexels.com/favicon.ico" alt="Pexels" width="32" height="32"> | [Pexels](https://www.pexels.com) | High-quality royalty-free stock photos and videos. |
+| <img src="https://pixabay.com/favicon.ico" alt="Pixabay" width="32" height="32"> | [Pixabay](https://pixabay.com) | 2.6+ million royalty-free stock photos, vectors, and videos. |
+| <img src="https://www.gradientmagic.com/favicon.ico" alt="Gradient Magic" width="32" height="32"> | [Gradient Magic](https://www.gradientmagic.com) | Unique CSS gradients gallery with ready-to-use code. |
+| <img src="https://uigradients.com/favicon.ico" alt="uiGradients" width="32" height="32"> | [uiGradients](https://uigradients.com) | Handpicked gradient color combinations with CSS export. |
+| <img src="https://trianglify.io/favicon.ico" alt="Trianglify" width="32" height="32"> | [Trianglify](https://trianglify.io) | Low-poly geometric triangle patterns as SVGs or PNGs. |
+| <img src="https://patternlibrary.com/favicon.ico" alt="Pattern Library" width="32" height="32"> | [Pattern Library](https://patternlibrary.com) | Gallery of beautiful seamless patterns by designers. |
+| <img src="https://www.toptal.com/designers/subtlepatterns/favicon.ico" alt="Subtle Patterns" width="32" height="32"> | [Subtle Patterns](https://www.toptal.com/designers/subtlepatterns/) | Free high-quality subtle background textures for websites. |
 
 ## SVGs and Vector Assets
 
 | Logo | Name | Description |
 |------|------|-------------|
-| ![SVGRepo](https://www.svgrepo.com/favicon.ico) | [SVGRepo](https://www.svgrepo.com) | A free collection of over 500,000 vector icons, illustrations, and graphics in SVG format. |
-| ![Raw SVG](https://rawsvg.com/favicon.ico) | [Raw SVG](https://rawsvg.com) | A repository of high-quality, clean SVG illustrations and icons ready to be dropped into projects. |
-| ![FreeDesignFile](https://freedesignfile.com/favicon.ico) | [FreeDesignFile](https://freedesignfile.com) | Free high-quality vector files and design resources including templates, brochures, and icons. |
-| ![Vecteezy](https://www.vecteezy.com/favicon.ico) | [Vecteezy](https://www.vecteezy.com) | Millions of free and premium vector graphics from a community of artists. |
-| ![SVG Silh](https://svgsilh.com/favicon.ico) | [SVG Silh](https://svgsilh.com) | A collection of open-source SVG images with a focus on silhouettes and clean line art. |
-| ![ShapeFactory](https://shapefactory.co/favicon.ico) | [ShapeFactory](https://shapefactory.co) | Simple design tools to create custom shapes, logos, gradients, and color palettes. |
-| ![OpenMoji](https://openmoji.org/favicon.ico) | [OpenMoji](https://openmoji.org) | Open-source emojis for designers, developers, and everyone else — all in SVG and PNG. |
-| ![Blobs](https://blobs.app/favicon.ico) | [Blobs](https://blobs.app) | Generate organic blob shapes as SVG, ready to copy or download for your designs. |
-| ![Haikei](https://app.haikei.app/favicon.ico) | [Haikei](https://app.haikei.app) | A web-based design tool to generate unique SVG backgrounds, blobs, and waves. |
-| ![Get Waves](https://getwaves.io/favicon.ico) | [Get Waves](https://getwaves.io) | A simple SVG wave generator to create subtle divider shapes for your website. |
+| <img src="https://www.svgrepo.com/favicon.ico" alt="SVGRepo" width="32" height="32"> | [SVGRepo](https://www.svgrepo.com) | 500,000+ free vector icons, illustrations, and graphics in SVG. |
+| <img src="https://rawsvg.com/favicon.ico" alt="Raw SVG" width="32" height="32"> | [Raw SVG](https://rawsvg.com) | Clean SVG illustrations and icons ready for projects. |
+| <img src="https://freedesignfile.com/favicon.ico" alt="FreeDesignFile" width="32" height="32"> | [FreeDesignFile](https://freedesignfile.com) | High-quality free vector files, templates, and design resources. |
+| <img src="https://www.vecteezy.com/favicon.ico" alt="Vecteezy" width="32" height="32"> | [Vecteezy](https://www.vecteezy.com) | Millions of free and premium vector graphics from artists. |
+| <img src="https://svgsilh.com/favicon.ico" alt="SVG Silh" width="32" height="32"> | [SVG Silh](https://svgsilh.com) | Open-source SVGs focused on silhouettes and line art. |
+| <img src="https://shapefactory.co/favicon.ico" alt="ShapeFactory" width="32" height="32"> | [ShapeFactory](https://shapefactory.co) | Simple tools to create custom shapes, logos, and palettes. |
+| <img src="https://openmoji.org/favicon.ico" alt="OpenMoji" width="32" height="32"> | [OpenMoji](https://openmoji.org) | Open-source emojis in SVG and PNG for everyone. |
+| <img src="https://blobs.app/favicon.ico" alt="Blobs" width="32" height="32"> | [Blobs](https://blobs.app) | Organic blob SVG shapes ready to download or copy. |
+| <img src="https://app.haikei.app/favicon.ico" alt="Haikei" width="32" height="32"> | [Haikei](https://app.haikei.app) | Generate unique SVG backgrounds, blobs, and waves. |
+| <img src="https://getwaves.io/favicon.ico" alt="Get Waves" width="32" height="32"> | [Get Waves](https://getwaves.io) | Simple SVG wave generator for subtle section dividers. |
 
 ## Color Tools and Palettes
 
 | Logo | Name | Description |
 |------|------|-------------|
-| ![Coolors](https://coolors.co/favicon.ico) | [Coolors](https://coolors.co) | Super-fast color palette generator, browser extension, and inspiration gallery. |
-| ![Adobe Color](https://color.adobe.com/favicon.ico) | [Adobe Color](https://color.adobe.com) | Create and explore color palettes using color theory rules, with integration into Creative Cloud. |
-| ![Color Hunt](https://colorhunt.co/favicon.ico) | [Color Hunt](https://colorhunt.co) | A curated gallery of beautiful color palettes updated daily by a community. |
-| ![Paletton](https://paletton.com/favicon.ico) | [Paletton](https://paletton.com) | An advanced color wheel tool that helps you create color schemes based on different harmonies. |
-| ![Khroma](https://www.khroma.co/favicon.ico) | [Khroma](https://www.khroma.co) | An AI-powered color tool that learns your preferences and generates unlimited palettes for you. |
-| ![Eva Design System Colors](https://colors.eva.design/favicon.ico) | [Eva Colors](https://colors.eva.design) | A deep learning-based color generator that produces semantic palette sets. |
-| ![Flat UI Colors](https://flatuicolors.com/favicon.ico) | [Flat UI Colors](https://flatuicolors.com) | Handpicked color palettes inspired by flat design, ready to copy or download. |
-| ![HTML Color Codes](https://htmlcolorcodes.com/favicon.ico) | [HTML Color Codes](https://htmlcolorcodes.com) | Comprehensive color tools including a color picker, charts, and color names. |
-| ![0to255](https://0to255.com/favicon.ico) | [0to255](https://0to255.com) | A simple tool that helps you find lighter and darker variations of any color. |
-| ![Happy Hues](https://www.happyhues.co/favicon.ico) | [Happy Hues](https://www.happyhues.co) | Curated palettes with real-world examples demonstrating how colors can be used in design. |
+| <img src="https://coolors.co/favicon.ico" alt="Coolors" width="32" height="32"> | [Coolors](https://coolors.co) | Fast palette generator with browser extension and inspiration. |
+| <img src="https://color.adobe.com/favicon.ico" alt="Adobe Color" width="32" height="32"> | [Adobe Color](https://color.adobe.com) | Color palettes with color theory rules and Creative Cloud sync. |
+| <img src="https://colorhunt.co/favicon.ico" alt="Color Hunt" width="32" height="32"> | [Color Hunt](https://colorhunt.co) | Curated gallery of beautiful palettes updated daily. |
+| <img src="https://paletton.com/favicon.ico" alt="Paletton" width="32" height="32"> | [Paletton](https://paletton.com) | Advanced color wheel for harmonic color schemes. |
+| <img src="https://www.khroma.co/favicon.ico" alt="Khroma" width="32" height="32"> | [Khroma](https://www.khroma.co) | AI-powered tool that learns your taste and generates palettes. |
+| <img src="https://colors.eva.design/favicon.ico" alt="Eva Colors" width="32" height="32"> | [Eva Colors](https://colors.eva.design) | Deep learning semantic palette generator. |
+| <img src="https://flatuicolors.com/favicon.ico" alt="Flat UI Colors" width="32" height="32"> | [Flat UI Colors](https://flatuicolors.com) | Handpicked flat design-inspired color palettes. |
+| <img src="https://htmlcolorcodes.com/favicon.ico" alt="HTML Color Codes" width="32" height="32"> | [HTML Color Codes](https://htmlcolorcodes.com) | Color picker, charts, and names for web colors. |
+| <img src="https://0to255.com/favicon.ico" alt="0to255" width="32" height="32"> | [0to255](https://0to255.com) | Lighter and darker variations of any color. |
+| <img src="https://www.happyhues.co/favicon.ico" alt="Happy Hues" width="32" height="32"> | [Happy Hues](https://www.happyhues.co) | Curated palettes with real-world design examples. |
 
 ## Mockups and Device Frames
 
 | Logo | Name | Description |
 |------|------|-------------|
-| ![Mockup World](https://www.mockupworld.co/favicon.ico) | [Mockup World](https://www.mockupworld.co) | A large collection of free, legally sourced product mockups for print, screen, and packaging. |
-| ![Mockuuups Studio](https://mockuuups.studio/favicon.ico) | [Mockuuups Studio](https://mockuuups.studio) | Drag-and-drop mockup tool with thousands of device frames, integrates with Sketch and Figma. |
-| ![ls.graphics](https://www.ls.graphics/favicon.ico) | [ls.graphics](https://www.ls.graphics) | Free high-quality device mockups and illustrations for web, mobile, and print. |
-| ![Device Shots](https://deviceshots.com/favicon.ico) | [Device Shots](https://deviceshots.com) | Quickly generate screenshots of your website across multiple devices with a single link. |
-| ![Dunnnk](https://dunnnk.com/favicon.ico) | [Dunnnk](https://dunnnk.com) | Beautiful free device mockup generator with a wide variety of phones, laptops, and tablets. |
-| ![MockupsJar](https://mockupsjar.com/favicon.ico) | [MockupsJar](https://mockupsjar.com) | Create high-quality mockups for your UI designs directly in the browser. |
-| ![CleanMock](https://cleanmock.com/favicon.ico) | [CleanMock](https://cleanmock.com) | A minimal mockup generator with stylish backgrounds and device frames. |
-| ![Shotsnapp](https://shotsnapp.com/favicon.ico) | [Shotsnapp](https://shotsnapp.com) | A simple tool to craft beautiful device mockup images for your designs and websites. |
+| <img src="https://www.mockupworld.co/favicon.ico" alt="Mockup World" width="32" height="32"> | [Mockup World](https://www.mockupworld.co) | Free legally sourced product mockups for print, screen, and packaging. |
+| <img src="https://mockuuups.studio/favicon.ico" alt="Mockuuups Studio" width="32" height="32"> | [Mockuuups Studio](https://mockuuups.studio) | Drag-and-drop mockup tool with thousands of device frames. |
+| <img src="https://www.ls.graphics/favicon.ico" alt="ls.graphics" width="32" height="32"> | [ls.graphics](https://www.ls.graphics) | Free high-quality device mockups and illustrations. |
+| <img src="https://deviceshots.com/favicon.ico" alt="Device Shots" width="32" height="32"> | [Device Shots](https://deviceshots.com) | Generate website screenshots on multiple devices instantly. |
+| <img src="https://dunnnk.com/favicon.ico" alt="Dunnnk" width="32" height="32"> | [Dunnnk](https://dunnnk.com) | Free beautiful device mockup generator with many devices. |
+| <img src="https://mockupsjar.com/favicon.ico" alt="MockupsJar" width="32" height="32"> | [MockupsJar](https://mockupsjar.com) | High-quality UI mockups created directly in the browser. |
+| <img src="https://cleanmock.com/favicon.ico" alt="CleanMock" width="32" height="32"> | [CleanMock](https://cleanmock.com) | Minimal mockup generator with stylish backgrounds and frames. |
+| <img src="https://shotsnapp.com/favicon.ico" alt="Shotsnapp" width="32" height="32"> | [Shotsnapp](https://shotsnapp.com) | Craft beautiful device mockup images for designs and websites. |
 
 ## Stock Photos
 
 | Logo | Name | Description |
 |------|------|-------------|
-| ![Unsplash](https://unsplash.com/favicon.ico) | [Unsplash](https://unsplash.com) | Over 3 million free high-resolution images contributed by a generous community of photographers. |
-| ![Pexels](https://www.pexels.com/favicon.ico) | [Pexels](https://www.pexels.com) | High-quality, royalty-free stock photos and videos shared by creators worldwide. |
-| ![Pixabay](https://pixabay.com/favicon.ico) | [Pixabay](https://pixabay.com) | A vast library of free images, vectors, and videos, all released under a permissive license. |
-| ![Burst by Shopify](https://burst.shopify.com/favicon.ico) | [Burst](https://burst.shopify.com) | Free stock photography for websites and e-commerce, powered by Shopify. |
-| ![StockSnap.io](https://stocksnap.io/favicon.ico) | [StockSnap.io](https://stocksnap.io) | Hundreds of high-resolution images added weekly, free from copyright restrictions. |
-| ![Reshot](https://www.reshot.com/favicon.ico) | [Reshot](https://www.reshot.com) | Handpicked free stock photos and vectors with a focus on non-stocky, authentic imagery. |
-| ![FoodiesFeed](https://www.foodiesfeed.com/favicon.ico) | [FoodiesFeed](https://www.foodiesfeed.com) | The best free food photos, professionally shot and readily available for download. |
-| ![Gratisography](https://gratisography.com/favicon.ico) | [Gratisography](https://gratisography.com) | Quirky, whimsical free high-resolution pictures for personal and commercial use. |
-| ![Picjumbo](https://picjumbo.com/favicon.ico) | [Picjumbo](https://picjumbo.com) | Free stock photos and backgrounds for personal and commercial use, with premium options available. |
-| ![Kaboompics](https://kaboompics.com/favicon.ico) | [Kaboompics](https://kaboompics.com) | Free, high-quality stock photos ideal for blogs, websites, and social media. |
+| <img src="https://unsplash.com/favicon.ico" alt="Unsplash" width="32" height="32"> | [Unsplash](https://unsplash.com) | 3+ million free high-resolution images from generous photographers. |
+| <img src="https://www.pexels.com/favicon.ico" alt="Pexels" width="32" height="32"> | [Pexels](https://www.pexels.com) | Royalty-free stock photos and videos shared by creators. |
+| <img src="https://pixabay.com/favicon.ico" alt="Pixabay" width="32" height="32"> | [Pixabay](https://pixabay.com) | Free images, vectors, and videos under a permissive license. |
+| <img src="https://burst.shopify.com/favicon.ico" alt="Burst" width="32" height="32"> | [Burst](https://burst.shopify.com) | Free stock photography for e-commerce by Shopify. |
+| <img src="https://stocksnap.io/favicon.ico" alt="StockSnap.io" width="32" height="32"> | [StockSnap.io](https://stocksnap.io) | Hundreds of high-resolution images added weekly, no copyright. |
+| <img src="https://www.reshot.com/favicon.ico" alt="Reshot" width="32" height="32"> | [Reshot](https://www.reshot.com) | Handpicked free stock photos with authentic, non-stocky feel. |
+| <img src="https://www.foodiesfeed.com/favicon.ico" alt="FoodiesFeed" width="32" height="32"> | [FoodiesFeed](https://www.foodiesfeed.com) | Professionally shot free food photos. |
+| <img src="https://gratisography.com/favicon.ico" alt="Gratisography" width="32" height="32"> | [Gratisography](https://gratisography.com) | Quirky, whimsical free high-resolution pictures. |
+| <img src="https://picjumbo.com/favicon.ico" alt="Picjumbo" width="32" height="32"> | [Picjumbo](https://picjumbo.com) | Free stock photos and backgrounds with premium options. |
+| <img src="https://kaboompics.com/favicon.ico" alt="Kaboompics" width="32" height="32"> | [Kaboompics](https://kaboompics.com) | High-quality free stock photos for blogs and social media. |
 
 ## UI Kits and Templates
 
 | Logo | Name | Description |
 |------|------|-------------|
-| ![Figma Community](https://www.figma.com/favicon.ico) | [Figma Community](https://www.figma.com/community) | A huge repository of free UI kits, wireframe kits, design systems, and plugins. |
-| ![Tailwind UI](https://tailwindui.com/favicon.ico) | [Tailwind UI](https://tailwindui.com) | Professional, ready-made HTML components and templates built with Tailwind CSS. |
-| ![UI Space](https://uispace.net/favicon.ico) | [UI Space](https://uispace.net) | Free high-quality PSD, Sketch, and Figma UI kits, icons, and themes. |
-| ![Freebiesbug](https://freebiesbug.com/favicon.ico) | [Freebiesbug](https://freebiesbug.com) | Hand-picked free web design resources including templates, icons, and mockups. |
-| ![HTML5 UP](https://html5up.net/favicon.ico) | [HTML5 UP](https://html5up.net) | Fully responsive HTML5 and CSS3 site templates that are free for personal and commercial use. |
-| ![Mobirise](https://mobirise.com/favicon.ico) | [Mobirise](https://mobirise.com) | A free offline website builder with a library of drag-and-drop blocks and templates. |
-| ![BootstrapMade](https://bootstrapmade.com/favicon.ico) | [BootstrapMade](https://bootstrapmade.com) | Free, clean, and modern Bootstrap website templates suitable for any project. |
-| ![Start Bootstrap](https://startbootstrap.com/favicon.ico) | [Start Bootstrap](https://startbootstrap.com) | Free, open-source Bootstrap themes and templates, perfect for landing pages and dashboards. |
-| ![Creative Tim](https://www.creative-tim.com/favicon.ico) | [Creative Tim](https://www.creative-tim.com) | Fully coded UI kits and templates based on Bootstrap, React, and other frameworks. |
-| ![Designmodo](https://designmodo.com/favicon.ico) | [Designmodo](https://designmodo.com) | Professional website builders, UI kits, and email templates for designers. |
+| <img src="https://www.figma.com/favicon.ico" alt="Figma Community" width="32" height="32"> | [Figma Community](https://www.figma.com/community) | Free UI kits, wireframes, design systems, and plugins. |
+| <img src="https://tailwindui.com/favicon.ico" alt="Tailwind UI" width="32" height="32"> | [Tailwind UI](https://tailwindui.com) | Ready-made HTML components and templates with Tailwind CSS. |
+| <img src="https://uispace.net/favicon.ico" alt="UI Space" width="32" height="32"> | [UI Space](https://uispace.net) | Free PSD, Sketch, and Figma UI kits, icons, and themes. |
+| <img src="https://freebiesbug.com/favicon.ico" alt="Freebiesbug" width="32" height="32"> | [Freebiesbug](https://freebiesbug.com) | Hand-picked free web design resources and templates. |
+| <img src="https://html5up.net/favicon.ico" alt="HTML5 UP" width="32" height="32"> | [HTML5 UP](https://html5up.net) | Responsive HTML5/CSS3 templates free for commercial use. |
+| <img src="https://mobirise.com/favicon.ico" alt="Mobirise" width="32" height="32"> | [Mobirise](https://mobirise.com) | Offline website builder with drag-and-drop blocks and templates. |
+| <img src="https://bootstrapmade.com/favicon.ico" alt="BootstrapMade" width="32" height="32"> | [BootstrapMade](https://bootstrapmade.com) | Free clean Bootstrap website templates for any project. |
+| <img src="https://startbootstrap.com/favicon.ico" alt="Start Bootstrap" width="32" height="32"> | [Start Bootstrap](https://startbootstrap.com) | Free open-source Bootstrap themes for landing pages and dashboards. |
+| <img src="https://www.creative-tim.com/favicon.ico" alt="Creative Tim" width="32" height="32"> | [Creative Tim](https://www.creative-tim.com) | Fully coded UI kits for Bootstrap, React, and more. |
+| <img src="https://designmodo.com/favicon.ico" alt="Designmodo" width="32" height="32"> | [Designmodo](https://designmodo.com) | Professional website builders, UI kits, and email templates. |
 
 ## Animation Assets
 
 | Logo | Name | Description |
 |------|------|-------------|
-| ![LottieFiles](https://lottiefiles.com/favicon.ico) | [LottieFiles](https://lottiefiles.com) | The world’s largest library of free and premium Lottie animations, editable and light-weight. |
-| ![Lordicon](https://lordicon.com/favicon.ico) | [Lordicon](https://lordicon.com) | Animated icons and interactive SVG animations built with Lottie and dotLottie formats. |
-| ![Icon8 Animated Icons](https://icons8.com/animated-icons/favicon.ico) | [Animated Icons by Icons8](https://icons8.com/animated-icons) | A collection of motion-based icons perfect for apps, websites, and presentations. |
-| ![Rive](https://rive.app/favicon.ico) | [Rive](https://rive.app) | A real-time interactive design tool that allows you to create and ship animations to any platform. |
-| ![Animate.css](https://animate.style/favicon.ico) | [Animate.css](https://animate.style) | A library of ready-to-use, cross-browser CSS animations for elements on your site. |
-| ![Hover.css](https://ianlunn.github.io/Hover/favicon.ico) | [Hover.css](https://ianlunn.github.io/Hover/) | A collection of CSS3 powered hover effects to apply to links, buttons, logos, and more. |
-| ![Vivus](https://maxwellito.github.io/vivus/favicon.ico) | [Vivus](https://maxwellito.github.io/vivus/) | A lightweight JavaScript class that animates SVGs, giving the appearance of being drawn. |
-| ![Mo.js](https://mojs.github.io/favicon.ico) | [mo.js](https://mojs.github.io) | A fast, screen density independent motion graphics library that helps you create smooth effects. |
-| ![GSAP](https://greensock.com/favicon.ico) | [GSAP](https://greensock.com/gsap/) | The professional-grade JavaScript animation library for creating high-performance animations. |
-| ![Animista](https://animista.net/favicon.ico) | [Animista](https://animista.net) | A playground of premade CSS animations that you can tweak and export with minimal code. |
+| <img src="https://lottiefiles.com/favicon.ico" alt="LottieFiles" width="32" height="32"> | [LottieFiles](https://lottiefiles.com) | Largest library of free and premium Lottie animations. |
+| <img src="https://lordicon.com/favicon.ico" alt="Lordicon" width="32" height="32"> | [Lordicon](https://lordicon.com) | Animated icons built with Lottie and dotLottie formats. |
+| <img src="https://icons8.com/animated-icons/favicon.ico" alt="Animated Icons by Icons8" width="32" height="32"> | [Animated Icons by Icons8](https://icons8.com/animated-icons) | Motion-based icons for apps, websites, and presentations. |
+| <img src="https://rive.app/favicon.ico" alt="Rive" width="32" height="32"> | [Rive](https://rive.app) | Real-time interactive design tool for animations on any platform. |
+| <img src="https://animate.style/favicon.ico" alt="Animate.css" width="32" height="32"> | [Animate.css](https://animate.style) | Ready-to-use cross-browser CSS animations. |
+| <img src="https://ianlunn.github.io/Hover/favicon.ico" alt="Hover.css" width="32" height="32"> | [Hover.css](https://ianlunn.github.io/Hover/) | Collection of CSS3 hover effects for UI elements. |
+| <img src="https://maxwellito.github.io/vivus/favicon.ico" alt="Vivus" width="32" height="32"> | [Vivus](https://maxwellito.github.io/vivus/) | Lightweight JavaScript class to animate SVGs as if drawn. |
+| <img src="https://mojs.github.io/favicon.ico" alt="mo.js" width="32" height="32"> | [mo.js](https://mojs.github.io) | Fast motion graphics library for smooth effects. |
+| <img src="https://greensock.com/favicon.ico" alt="GSAP" width="32" height="32"> | [GSAP](https://greensock.com/gsap/) | Professional-grade JavaScript animation library. |
+| <img src="https://animista.net/favicon.ico" alt="Animista" width="32" height="32"> | [Animista](https://animista.net) | Playground of premade CSS animations to tweak and export. |
+
+## Design Tools
+
+| Logo | Name | Description |
+|------|------|-------------|
+| <img src="https://www.figma.com/favicon.ico" alt="Figma" width="32" height="32"> | [Figma](https://www.figma.com) | Collaborative interface design tool with prototyping and dev handoff. |
+| <img src="https://www.framer.com/favicon.ico" alt="Framer" width="32" height="32"> | [Framer](https://www.framer.com) | Design and publish interactive websites with powerful animations. |
+| <img src="https://www.sketch.com/favicon.ico" alt="Sketch" width="32" height="32"> | [Sketch](https://www.sketch.com) | Vector-based design tool for macOS with a rich plugin ecosystem. |
+| <img src="https://www.adobe.com/favicon.ico" alt="Adobe XD" width="32" height="32"> | [Adobe XD](https://www.adobe.com/products/xd.html) | Adobe's UI/UX design and prototyping tool (in maintenance mode). |
+| <img src="https://www.invisionapp.com/favicon.ico" alt="InVision" width="32" height="32"> | [InVision](https://www.invisionapp.com) | Prototyping and collaboration platform for design teams. |
+| <img src="https://miro.com/favicon.ico" alt="Miro" width="32" height="32"> | [Miro](https://miro.com) | Online whiteboard for brainstorming, wireframing, and planning. |
+| <img src="https://www.canva.com/favicon.ico" alt="Canva" width="32" height="32"> | [Canva](https://www.canva.com) | Browser-based graphic design platform with templates and assets. |
+| <img src="https://penpot.app/favicon.ico" alt="Penpot" width="32" height="32"> | [Penpot](https://penpot.app) | Open-source design and prototyping tool for collaborative teams. |
