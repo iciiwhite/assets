@@ -20,7 +20,7 @@ A curated collection of resources for web and graphic designers. Find fonts, ico
 |------|------|-------------|
 | ![IconSax](https://iconsax.io/favicon.ico) | [IconSax](https://iconsax.io) | A versatile icon library offering thousands of icons in multiple styles, including linear, bold, and outline variants. |
 | ![Font Awesome](https://fontawesome.com/favicon.ico) | [Font Awesome](https://fontawesome.com) | The web's most popular icon set and toolkit, featuring thousands of free and pro icons for use in any project. |
-| ![Material Icons](https://fonts.google.com/favicon.ico) | [Material Icons](https://fonts.google.com/icons) | Google's official icon library following Material Design guidelines, available as fonts and SVGs. |
+| ![Material Icons](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQTKeiWNEr4b5zN3LnkT7eV7nxzindwBK6krFqN3sGJQ&s=10) | [Material Icons](https://fonts.google.com/icons) | Google's official icon library following Material Design guidelines, available as fonts and SVGs. |
 | ![Feather Icons](https://feathericons.com/favicon.ico) | [Feather Icons](https://feathericons.com) | A collection of simply beautiful open source icons designed on a 24x24 grid. |
 | ![Heroicons](https://heroicons.com/favicon.ico) | [Heroicons](https://heroicons.com) | Beautiful hand-crafted SVG icons by the makers of Tailwind CSS, available in outline and solid styles. |
 | ![Remix Icon](https://remixicon.com/favicon.ico) | [Remix Icon](https://remixicon.com) | Open source neutral-style system symbols meticulously crafted for designers and developers. |
