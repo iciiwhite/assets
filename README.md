@@ -3,17 +3,17 @@
 A curated collection of resources for web and graphic designers. Find fonts, icons, backgrounds, SVGs, illustrations, and more — everything you need for your next project, from free tools to premium assets.
 
 ## Table of Contents
-1. [Icons](#icons)
-2. [Fonts](#fonts)
-3. [Illustrations](#illustrations)
-4. [Background Images and Patterns](#background-images-and-patterns)
-5. [SVGs and Vector Assets](#svgs-and-vector-assets)
-6. [Color Tools and Palettes](#color-tools-and-palettes)
-7. [Mockups and Device Frames](#mockups-and-device-frames)
-8. [Stock Photos](#stock-photos)
-9. [UI Kits and Templates](#ui-kits-and-templates)
-10. [Animation Assets](#animation-assets)
-11. [Design Tools](#design-tools)
+### 1. [Icons](#icons)
+### 2. [Fonts](#fonts)
+### 3. [Illustrations](#illustrations)
+### 4. [Background Images and Patterns](#background-images-and-patterns)
+### 5. [SVGs and Vector Assets](#svgs-and-vector-assets)
+### 6. [Color Tools and Palettes](#color-tools-and-palettes)
+### 7. [Mockups and Device Frames](#mockups-and-device-frames)
+### 8. [Stock Photos](#stock-photos)
+### 9. [UI Kits and Templates](#ui-kits-and-templates)
+### 10. [Animation Assets](#animation-assets)
+### 11. [Design Tools](#design-tools)
 
 ## Icons
 
