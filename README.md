@@ -25,7 +25,7 @@ A curated collection of resources for web and graphic designers. Find fonts, ico
 | ![Heroicons](https://heroicons.com/favicon.ico) | [Heroicons](https://heroicons.com) | Beautiful hand-crafted SVG icons by the makers of Tailwind CSS, available in outline and solid styles. |
 | ![Remix Icon](https://remixicon.com/favicon.ico) | [Remix Icon](https://remixicon.com) | Open source neutral-style system symbols meticulously crafted for designers and developers. |
 | ![Phosphor Icons](https://phosphoricons.com/favicon.ico) | [Phosphor Icons](https://phosphoricons.com) | A flexible icon family with six weights (thin, light, regular, bold, fill, duotone) and a friendly style. |
-| ![Tabler Icons](https://tabler-icons.io/favicon.ico) | [Tabler Icons](https://tabler-icons.io) | Over 4400 pixel-perfect, customizable SVG icons designed for modern interfaces. |
+| ![Tabler Icons](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjXCD3IoQzaOvLfhZcn0vNj7qap9ca7LIoOU6TYGH1EQ&s=10) | [Tabler Icons](https://tabler-icons.io) | Over 4400 pixel-perfect, customizable SVG icons designed for modern interfaces. |
 | ![Lucide](https://lucide.dev/favicon.ico) | [Lucide](https://lucide.dev) | A community-driven fork of Feather Icons with many additional icons and active maintenance. |
 | ![The Noun Project](https://thenounproject.com/favicon.ico) | [The Noun Project](https://thenounproject.com) | A massive collection of icons and photos contributed by a global community, with both free and paid options. |
 | ![Flaticon](https://www.flaticon.com/favicon.ico) | [Flaticon](https://www.flaticon.com) | The largest database of free vector icons, available in PNG, SVG, EPS, PSD, and BASE64 formats. |
