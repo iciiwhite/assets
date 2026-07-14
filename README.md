@@ -28,7 +28,7 @@ A curated collection of resources for web and graphic designers. Find fonts, ico
 | ![Tabler Icons](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjXCD3IoQzaOvLfhZcn0vNj7qap9ca7LIoOU6TYGH1EQ&s=10) | [Tabler Icons](https://tabler-icons.io) | Over 4400 pixel-perfect, customizable SVG icons designed for modern interfaces. |
 | ![Lucide](https://lucide.dev/favicon.ico) | [Lucide](https://lucide.dev) | A community-driven fork of Feather Icons with many additional icons and active maintenance. |
 | ![The Noun Project](https://thenounproject.com/favicon.ico) | [The Noun Project](https://thenounproject.com) | A massive collection of icons and photos contributed by a global community, with both free and paid options. |
-| ![Flaticon](https://www.flaticon.com/favicon.ico) | [Flaticon](https://www.flaticon.com) | The largest database of free vector icons, available in PNG, SVG, EPS, PSD, and BASE64 formats. |
+| ![Flaticon](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiMDHcIPosCVEXtKgMj5BTqzfvRa5ltwLq7wVNLhfXTw&s=10) | [Flaticon](https://www.flaticon.com) | The largest database of free vector icons, available in PNG, SVG, EPS, PSD, and BASE64 formats. |
 | ![Icons8](https://icons8.com/favicon.ico) | [Icons8](https://icons8.com) | A comprehensive design platform providing icons, illustrations, photos, and music in consistent styles. |
 | ![Simple Icons](https://simpleicons.org/favicon.ico) | [Simple Icons](https://simpleicons.org) | Free SVG icons for popular brands, always up to date and consistent in appearance. |
 | ![Devicons](https://devicon.dev/favicon.ico) | [Devicons](https://devicon.dev) | A set of icons representing programming languages, designing tools, and development frameworks. |
