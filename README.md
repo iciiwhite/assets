@@ -31,7 +31,7 @@ A curated collection of resources for web and graphic designers. Find fonts, ico
 | ![Flaticon](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiMDHcIPosCVEXtKgMj5BTqzfvRa5ltwLq7wVNLhfXTw&s=10) | [Flaticon](https://www.flaticon.com) | The largest database of free vector icons, available in PNG, SVG, EPS, PSD, and BASE64 formats. |
 | ![Icons8](https://icons8.com/favicon.ico) | [Icons8](https://icons8.com) | A comprehensive design platform providing icons, illustrations, photos, and music in consistent styles. |
 | ![Simple Icons](https://simpleicons.org/favicon.ico) | [Simple Icons](https://simpleicons.org) | Free SVG icons for popular brands, always up to date and consistent in appearance. |
-| ![Devicons](https://devicon.dev/favicon.ico) | [Devicons](https://devicon.dev) | A set of icons representing programming languages, designing tools, and development frameworks. |
+| ![Devicons](https://github.com/devicons/devicon) | [Devicons](https://devicon.dev) | A set of icons representing programming languages, designing tools, and development frameworks. |
 
 ## Fonts
 
