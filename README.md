@@ -3,18 +3,19 @@
 A curated collection of resources for web and graphic designers. Find fonts, icons, backgrounds, SVGs, illustrations, and more — everything you need for your next project, from free tools to premium assets.
 
 ## Table of Contents
-### 1. [Icons](#icons)
-### 2. [Fonts](#fonts)
-### 3. [Illustrations](#illustrations)
-### 4. [Background Images and Patterns](#background-images-and-patterns)
-### 5. [SVGs and Vector Assets](#svgs-and-vector-assets)
-### 6. [Color Tools and Palettes](#color-tools-and-palettes)
-### 7. [Mockups and Device Frames](#mockups-and-device-frames)
-### 8. [Stock Photos](#stock-photos)
-### 9. [UI Kits and Templates](#ui-kits-and-templates)
-### 10. [Animation Assets](#animation-assets)
-### 11. [Design Tools](#design-tools)
-
+<ol>
+  <li><a href="#icons">Icons</a></li>
+  <li><a href="#fonts">Fonts</a></li>
+  <li><a href="#illustrations">Illustrations</a></li>
+  <li><a href="#background-images-and-patterns">Background Images and Patterns</a></li>
+  <li><a href="#svgs-and-vector-assets">SVGs and Vector Assets</a></li>
+  <li><a href="#color-tools-and-palettes">Color Tools and Palettes</a></li>
+  <li><a href="#mockups-and-device-frames">Mockups and Device Frames</a></li>
+  <li><a href="#stock-photos">Stock Photos</a></li>
+  <li><a href="#ui-kits-and-templates">UI Kits and Templates</a></li>
+  <li><a href="#animation-assets">Animation Assets</a></li>
+  <li><a href="#design-tools">Design Tools</a></li>
+</ol>
 ## Icons
 
 | Logo | Name | Description |
